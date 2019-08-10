@@ -2,6 +2,6 @@ server:
   port: 8084
 spring:
   application:
-    name: news-user-client
+    name: news-user-service
   profiles:
     active: dev
