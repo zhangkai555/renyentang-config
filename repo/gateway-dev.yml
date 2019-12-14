@@ -2,7 +2,7 @@ server:
   port: 8088
 spring:
   application:
-    name: news-gateway-server
+    name: sep-gateway-server
   cloud:
     gateway:
       discovery:
