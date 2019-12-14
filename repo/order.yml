@@ -2,6 +2,4 @@ server:
   port: 8085
 spring:
   application:
-    name: news-order-service
-  profiles:
-    active: dev
+    name: sep-order-service
